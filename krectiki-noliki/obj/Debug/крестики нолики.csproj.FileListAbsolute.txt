@@ -1,0 +1,21 @@
+C:\Users\катюня\source\repos\крестики нолики\bin\Debug\крестики нолики.exe.config
+C:\Users\катюня\source\repos\крестики нолики\bin\Debug\крестики нолики.exe
+C:\Users\катюня\source\repos\крестики нолики\bin\Debug\крестики нолики.pdb
+C:\Users\катюня\source\repos\крестики нолики\obj\Debug\крестики нолики.csproj.AssemblyReference.cache
+C:\Users\катюня\source\repos\крестики нолики\obj\Debug\крестики нолики.csproj.CoreCompileInputs.cache
+C:\Users\катюня\source\repos\крестики нолики\obj\Debug\крестики нолики.exe
+C:\Users\катюня\source\repos\крестики нолики\obj\Debug\крестики нолики.pdb
+C:\Users\катюня\Desktop\обучение с#\крестики нолики\bin\Debug\крестики нолики.exe.config
+C:\Users\катюня\Desktop\обучение с#\крестики нолики\bin\Debug\крестики нолики.exe
+C:\Users\катюня\Desktop\обучение с#\крестики нолики\bin\Debug\крестики нолики.pdb
+C:\Users\катюня\Desktop\обучение с#\крестики нолики\obj\Debug\крестики нолики.csproj.AssemblyReference.cache
+C:\Users\катюня\Desktop\обучение с#\крестики нолики\obj\Debug\крестики нолики.csproj.CoreCompileInputs.cache
+C:\Users\катюня\Desktop\обучение с#\крестики нолики\obj\Debug\крестики нолики.exe
+C:\Users\катюня\Desktop\обучение с#\крестики нолики\obj\Debug\крестики нолики.pdb
+C:\Users\катюня\Desktop\обучение с#\krectiki-noliki\bin\Debug\крестики нолики.exe.config
+C:\Users\катюня\Desktop\обучение с#\krectiki-noliki\bin\Debug\крестики нолики.exe
+C:\Users\катюня\Desktop\обучение с#\krectiki-noliki\bin\Debug\крестики нолики.pdb
+C:\Users\катюня\Desktop\обучение с#\krectiki-noliki\obj\Debug\крестики нолики.csproj.AssemblyReference.cache
+C:\Users\катюня\Desktop\обучение с#\krectiki-noliki\obj\Debug\крестики нолики.csproj.CoreCompileInputs.cache
+C:\Users\катюня\Desktop\обучение с#\krectiki-noliki\obj\Debug\крестики нолики.exe
+C:\Users\катюня\Desktop\обучение с#\krectiki-noliki\obj\Debug\крестики нолики.pdb
